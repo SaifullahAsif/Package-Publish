@@ -1,0 +1,16 @@
+{
+  "name": "node_package_greeting",
+  "version": "1.0.0",
+  "description": "This is the package which is requested by our respected instructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Package-Publish"
+  },
+  "author": "Muhammad Saifullah",
+  "license": "MIT",
+  "keywords": []
+}
