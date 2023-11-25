@@ -10,7 +10,7 @@ const greetWithCallback = (callback) => {
 const greetWithPromise = () => {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
-        const message = 'Hi! I am Saifullah and greeting from callback';
+        const message = 'Hi! I am Saifullah and greeting from promise';
         resolve(message);
     }, 3000); 
     });
@@ -18,7 +18,7 @@ const greetWithPromise = () => {
 
 const greetWithAsyncAwait = async () => {
     setTimeout(() => {
-        return 'Hi! I am Saifullah and greeting from callback';
+        return 'Hi! I am Saifullah and greeting from async/await';
     }, 2000);
 };
 
