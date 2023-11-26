@@ -1,6 +1,6 @@
 {
   "name": "node_package_greeting",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is the package which is requested by our respected instructor",
   "main": "index.js",
   "scripts": {
